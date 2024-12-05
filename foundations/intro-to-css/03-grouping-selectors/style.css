@@ -1,0 +1,14 @@
+.enter,
+.leave{
+    font-size: 28xp;
+    font: Helvetica, "Times New Roman", sans-serif;
+}
+
+.enter{
+    color: white;
+    background-color: black;
+}
+
+.leave{
+    background-color: rgb(251, 255, 0);
+}
