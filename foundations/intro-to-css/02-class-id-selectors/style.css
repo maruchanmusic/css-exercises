@@ -1,0 +1,20 @@
+.first-class{
+    background-color: rgb(241, 157, 169);
+    color: #000000;
+    font: verdana, "DejaVu Sans", sans-serif;
+}
+
+.first-class.typeb{
+    font-size: 24px;
+}
+
+#numtwo{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#numfour{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
