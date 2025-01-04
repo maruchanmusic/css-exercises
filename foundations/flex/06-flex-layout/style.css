@@ -23,6 +23,8 @@ img {
 
 a {
   text-decoration: none;
+  color: gray;
+  font-size: 0.85em;
 }
 
 button {
@@ -30,6 +32,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px;
 }
 
 input {
@@ -61,8 +64,13 @@ input {
   text-align: center;
 }
 
+.buttons {
+  padding: 10px;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
+  background-color: #eeeeee;
    
 }
